@@ -14,7 +14,7 @@ A conversion to a bubble has been made for the game, and it is now natively func
 
 the game assets files are located in
 
-ux0:data/gms/ONAF10001/assets
+ux0:data/gms/ONAF20001/assets
 
 -Thanks to Rinnegatamante(https://github.com/Rinnegatamante) for making YOYO Loader (https://github.com/Rinnegatamante/yoyoloader_vita)
 
